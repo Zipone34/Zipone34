@@ -14,6 +14,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vite,vscode"/>
 </p>
+<h1 align="center">REPOSITORY:</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
