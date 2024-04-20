@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java,figma,react,kali,bootstrap" />
   </a>
 </p>
-<h1>IDE & COMPILERS</h1>
+<h1 align="center">IDE & COMPILERS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vite,vscode"/>
