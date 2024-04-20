@@ -6,7 +6,7 @@
 - <h1 align="center">Tech Stack:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,figma,react,kali,bootstrap" />
   </a>
 </p>
 
