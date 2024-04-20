@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Programmer/Developer from Philippines..</h3>
 <img align="right" alt="Coding" width="400" src="file:///C:/Users/Home/Download![dino](https://github.com/Zipone34/Zipone34/assets/115150262/20e05eb9-a57d-4c5e-a77d-ea9b8c6ca9cd)
 s/dino.gif">
+![dino](https://github.com/Zipone34/Zipone34/assets/115150262/01e6b0aa-5589-49eb-8500-088acbe03c0b)
 
 - 🔭 I’m currently working on **None**
 
