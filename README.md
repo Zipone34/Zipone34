@@ -3,18 +3,18 @@
 <h1 align="center">Hi 👋, I'm Joshua Yanson Singuelas also Known {Zipone34}</h1>
 <h3 align="center">A passionate Programmer/Developer from Philippines..</h3>
 <img align="center" alt="Coding" width="1000" src="https://media.tenor.com/qV9QZcasa-QAAAAd/welcome.gif">
-- <h1 align="center">Tech Stacks:</h1>
+- <h1 align="center">💻Tech Stacks💻</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,figma,react,kali,bootstrap" />
   </a>
 </p>
-<h1 align="center">IDE & COMPILERS:</h1>
+<h1 align="center">🛠️IDE & COMPILERS🛠️</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vite,vscode"/>
 </p>
-<h1 align="center">REPOSITORY:</h1>
+<h1 align="center">📥REPOSITORY📥</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github"/>
