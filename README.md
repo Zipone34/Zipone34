@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zipone34</h1>
+<h1 align="center">Hi 👋, I'm Joshua Yanson Singuelas also Known {Zipone34}</h1>
 <h3 align="center">A passionate Programmer/Developer from Philippines..</h3>
 <img align="right" alt="Coding" width="400" src="file:///C:/Users/Home/Download![dino](https://github.com/Zipone34/Zipone34/assets/115150262/20e05eb9-a57d-4c5e-a77d-ea9b8c6ca9cd)
 s/dino.gif">
