@@ -1,7 +1,8 @@
 
 <img align="left" alt="Coding" width="100" src="https://i.pinimg.com/originals/49/66/2a/49662a3676890bc79ea9732220f26bf7.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F70C&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Joshua Yanson Singuelas also Known {Zipone34}</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F70C&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate Programmer/Developer from Philippines..</h3>
 <img align="center" alt="Coding" width="1000" src="https://media.tenor.com/qV9QZcasa-QAAAAd/welcome.gif">
 - <h1 align="center">💻Tech Stacks💻</h1>
