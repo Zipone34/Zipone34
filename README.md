@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Yanson Singuelas also Known {Zipone34}</h1>
 <h3 align="center">A passionate Programmer/Developer from Philippines..</h3>
 <img align="center" alt="Coding" width="100" src="https://i.pinimg.com/originals/49/66/2a/49662a3676890bc79ea9732220f26bf7.gif">
-<img align="center" alt="Coding" width="100" src="<img align="center" alt="Coding" width="100" src="https://i.pinimg.com/originals/49/66/2a/49662a3676890bc79ea9732220f26bf7.gif">">
+<img align="center" alt="Coding" width="100" src="<img align="center" alt="Coding" width="100" src="https://i.pinimg.com/originals/49/66/2a/49662a3676890bc79ea9732220f26bf7.gif">
 - 🔭 I’m currently working on **None**
 
 - 👯 I’m looking to collaborate on **None**
