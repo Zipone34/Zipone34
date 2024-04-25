@@ -10,13 +10,13 @@
 - <h1 align="center">💻Tech Stacks💻</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,figma,react,kali,bootstrap,sass,tailwind,ts,vue,php,nodejs,angular,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,figma,react,kali,bootstrap,sass,tailwind,ts,vue,php,nodejs,angular,mysql,vite" />
   </a>
 </p>
 <h1 align="center">🛠️IDE & COMPILERS🛠️</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vite,vscode"/>
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode"/>
 </p>
 <h1 align="center">📥REPOSITORY📥</h1>
 <p align="center">
